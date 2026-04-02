@@ -1,18 +1,4 @@
-This looks like a solid foundation for a README\! To make it truly ready for GitHub, I've cleaned up a few things:
-
-1.  **Added Badges:** Added standard GitHub shields/badges at the top for Flutter, Firebase, and the License to give it a professional look.
-2.  **Fixed Invisible Characters:** Replaced the non-breaking spaces (` `) in your folder structure, code blocks, and lists with standard spaces. Non-breaking spaces often cause errors when developers copy and paste terminal commands or JSON.
-3.  **Updated Commands:** Changed `flutter format lib/` to `dart format lib/`, which is the modern standard for formatting Dart code.
-4.  **Formatting Polish:** Cleaned up the stray `#` at the end and aligned the table for better rendering. I also updated the "Last Updated" date to the current month (April 2026).
-
-Here is your GitHub-ready `README.md`. You can copy and paste this directly into your repository:
-
-````markdown
 # 🏦 ExpenseVault - Expense Tracker App
-
-![Flutter](https://img.shields.io/badge/Flutter-%5E3.11.1-02569B?style=flat&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-Integrated-FFCA28?style=flat&logo=firebase)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 A modern, feature-rich Flutter mobile application for tracking daily expenses with budget management, REST API integration for real-time currency exchange rates, and Firebase authentication.
 
