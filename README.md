@@ -331,7 +331,7 @@ For issues or questions:
 
 ## 👥 Authors
 
-  - ExpenseVault Development Team
+  - France Jefferson Sulibio
 
 ## 🎉 Acknowledgments
 
